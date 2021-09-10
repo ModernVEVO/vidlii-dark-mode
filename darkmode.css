@@ -74,3 +74,104 @@ footer > div:last-of-type > div {
     background: linear-gradient(to bottom,#333333 3%,#000 100%);
     border-color: #333;
 }
+
+#modal, .squareBox {
+    border: 1px solid #353535;
+    background: #202020;
+}
+
+#modal > div, .squareBox > div {
+    background: #222;
+    border: 1px solid #262626;
+}
+
+.video-contest > div:first-of-type {
+    color: #fff !important;
+}
+
+.yellowBox {
+    background: #222;
+    border: 1px solid #202020;
+}
+
+.yellowBox h3 {
+    color: #fff;
+}
+
+.yellowBox > div > div a {
+    color: #fff !important;
+}
+
+.yellowBox > div > div:last-of-type a {
+    color: #fff !important;
+}
+
+.yellowBox > div:last-of-type a {
+    color: #fff;
+}
+
+.home-side-box {
+    background: #222;
+    border: 1px solid #202020;
+}
+
+.home-side-box > h3 {
+    color: #fff;
+}
+
+body {
+    color: #fff;
+}
+
+.trendingVideos > div:first-of-type .sel {
+    font-weight: 700;
+    color: #fff;
+    pointer-events: none;
+}
+
+.header-middle-nav a {
+text-shadow: 0 0px 0px #fff;
+}
+
+footer strong {
+    color: #fff;
+}
+
+.footer-button.sel, .footer-button:active {
+    background: linear-gradient(to bottom,#181818 37%,#181818 67%,#181818 100%);
+}
+
+.footer-button {
+    background: linear-gradient(to bottom,#fff 37%,#fff 37%,#eaeaea 100%);
+	border: 1px solid #2f2f2f;
+	box-shadow: 0 0 0px 0 rgba(184,184,184,.45);
+}
+
+.footer-button {
+    background: linear-gradient(to bottom,#181818 37%,#181818 37%,#181818 100%);
+    border: 1px solid #2f2f2f;
+    box-shadow: 0 0 0px 0 rgba(184,184,184,.45);
+}
+
+.browse-menu {
+    background: linear-gradient(to bottom,#181818 0,#181818 88%);
+}
+
+.trendingVideos > div:first-of-type {
+    border-bottom: 1px solid #393939;
+    border-top: 1px solid #2f2f2f;
+}
+
+.videoThumbnail {
+    border: 3px double #2d2d2d;
+}
+
+.channelAvatar {
+    border: 3px double #2d2d2d;
+}
+
+.btn, button, input[type="button"], input[type="submit"] {
+    border: 1px solid #5e5e5e;
+    background: linear-gradient(to bottom,#535353 0,#424242 100%);
+	color: white;
+}
