@@ -74,3 +74,396 @@ footer > div:last-of-type > div {
     background: linear-gradient(to bottom,#333333 3%,#000 100%);
     border-color: #333;
 }
+
+#modal > div, .squareBox > div {
+    background: #222;
+    border: 1px solid #262626;
+}
+
+.video-contest > div:first-of-type {
+    color: #fff !important;
+}
+
+.yellowBox {
+    background: #222;
+    border: 1px solid #202020;
+}
+
+.yellowBox h3 {
+    color: #fff;
+}
+
+.yellowBox > div > div a {
+    color: #fff !important;
+}
+
+.yellowBox > div > div:last-of-type a {
+    color: #fff !important;
+}
+
+.yellowBox > div:last-of-type a {
+    color: #fff;
+}
+
+.home-side-box {
+    background: #222;
+    border: 1px solid #202020;
+}
+
+.home-side-box > h3 {
+    color: #fff;
+}
+
+body {
+    color: #fff;
+}
+
+.trendingVideos > div:first-of-type .sel {
+    font-weight: 700;
+    color: #fff;
+    pointer-events: none;
+}
+
+.header-middle-nav a {
+text-shadow: 0 0px 0px #fff;
+}
+
+footer strong {
+    color: #fff;
+}
+
+.footer-button.sel, .footer-button:active {
+    background: linear-gradient(to bottom,#181818 37%,#181818 67%,#181818 100%);
+}
+
+.footer-button {
+    background: linear-gradient(to bottom,#fff 37%,#fff 37%,#eaeaea 100%);
+	border: 1px solid #2f2f2f;
+	box-shadow: 0 0 0px 0 rgba(184,184,184,.45);
+}
+
+.footer-button {
+    background: linear-gradient(to bottom,#181818 37%,#181818 37%,#181818 100%);
+    border: 1px solid #2f2f2f;
+    box-shadow: 0 0 0px 0 rgba(184,184,184,.45);
+}
+
+.browse-menu {
+    background: linear-gradient(to bottom,#181818 0,#181818 88%);
+}
+
+.trendingVideos > div:first-of-type {
+    border-bottom: 1px solid #393939;
+    border-top: 1px solid #2f2f2f;
+}
+
+.videoThumbnail {
+    border: 3px double #2d2d2d;
+}
+
+.channelAvatar {
+    border: 3px double #2d2d2d;
+}
+
+.btn, button, input[type="button"], input[type="submit"] {
+    border: 1px solid #5e5e5e;
+    background: linear-gradient(to bottom,#535353 0,#424242 100%);
+	color: white;
+}
+
+.about-menu, .browse-cats {
+    background: linear-gradient(to bottom,#333 1%,#222 100%);
+	color: #fff;
+}
+
+.about-menu > div:first-of-type, .browse-cats > div:first-of-type {
+    background: linear-gradient(to bottom,#222 1%,#222 100%);
+}
+
+.about-menu > div > a, .browse-cats > div > a {
+    color: #fff;
+}
+
+.browse-cats > span > a {
+    color: #fff;
+}
+
+.browse-sub-menu {
+    border-bottom: 1px solid #353535;
+}
+
+.pagination {
+	border-top: 1px solid #353535;
+}
+
+.browse-menu > a.sel {
+    box-shadow: 7px 5px 4px -1px #222;
+    border: 1px solid #424242;
+    background: linear-gradient(to bottom,#333 0,#222 100%);
+    color: white !important;
+    text-shadow: 0 0px 0 #fff;
+}
+
+#footer-settings > div {
+    background: #1c1c1c;
+    border-bottom: 1px solid #404040;
+}
+
+.header-list label {
+    border: 1px solid #404040;
+    background: #1c1c1c;
+}
+
+#modal, .squareBox {
+    border: 1px solid #3c3c3c;
+    background: #222;
+}
+
+.videosBeingWatched .video {
+    border: 4px double #202020;
+    background: #2b2b2b;
+}
+
+.language-list > div.sel a {
+    color: #8c8c8c;
+}
+
+#communityGroups > div {
+    border: 2px solid #3c3c3c;
+}
+
+#community-contest-winner > div:first-of-type {
+    background: #222;
+    border-left: 1px solid #3c3c3c;
+    border-top: 1px solid #3c3c3c;
+    border-right: 1px solid #3c3c3c;
+}
+
+.new-profiles {
+    border: 1px solid #3c3c3c;
+    margin-top: 15px;
+}
+
+.new-profiles-list > div {
+    border-bottom: 1px solid #3c3c3c;
+}
+
+#community-groups-list {
+    background: #222;
+}
+
+#community-groups-sidebar {
+    background: #333;
+}
+
+#community-groups-sidebar > span {
+    color: #fff;
+}
+
+.new-profiles > div:first-of-type {
+    border-bottom: 1px solid #3c3c3c;
+}
+
+.vertical-links > a {
+    color: #fff;
+}
+
+.right404 > div:first-of-type > div:first-of-type {
+    color: #959595;
+}
+
+#header-dropdown > div {
+    background: #181818;
+    border: 1px solid #484848;
+}
+
+#header-dropdown {
+    color: #fff;\
+}
+
+.channelManage-link, .header-dropdown-links > a {
+    background: #444;
+}
+
+.header-dropdown-in > div:first-of-type {
+    background: #222;
+}
+
+.mainChannel {
+    background: #222;
+    border-bottom: 1px dashed #535353;
+}
+
+.header-dropdown-in > div:first-of-type {
+    border-bottom: 1px dashed #535353;
+}
+
+body[data-page="channel"] header {
+    background: #181818;
+}
+
+.manageChannelList {
+    background: #222;
+    border: 1px solid rgba(87, 87, 87, 0.2);
+}
+
+.manageChannels-in .vertical-links a {
+    background: #333;
+}
+
+.vertical-links > a {
+    border: 4px double #4d4d4d;
+}
+
+.editChannelMembership-in > div > div:first-of-type {
+    border: 1px solid #595959;
+    background: #333;
+}
+
+.editChannelMembership-in > div > div:last-of-type > div:first-of-type {
+    border: 1px solid #404040;
+    background: #333;
+}
+
+.editChannelMembership-in > div > div:last-of-type > div:last-of-type {
+    border: 1px solid #404040;
+    background: #333;
+}
+
+.membershipPermissions tr:first-of-type {
+    background-color: #555;
+}
+
+.membershipPermissions tr:nth-child(2n) {
+    background-color: #333;
+}
+
+.browse-channel-info {
+    color: #9b9b9b;
+}
+
+.browse-channel-spotlight > div:nth-of-type(2n) > div:first-of-type {
+    color: #9b9b9b;
+}
+
+.browse-video-spotlight > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(1) {
+    color: #9b9b9b;
+}
+
+.browse-video-spotlight > div:first-of-type > div:nth-of-type(2) > div:nth-of-type(2) {
+    border-left: 1px solid #575555;
+}
+
+.videoDescription {
+    background: #333;
+    border: 1px solid #555;
+}
+
+.videoDescription-content {
+    border-top: 1px solid #555;
+    border-bottom: 1px solid #555;
+}
+
+.video-community, .video-shares, .video-stats {
+    border: 1px solid #2d2d2d;
+}
+
+.video-community .arrowSection > div:last-of-type {
+    border-bottom: 1px solid #2d2d2d;
+}
+
+.chip-container, .commentBox, .pseudoTextbox, input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="text"], input[type="url"], select, textarea {
+    border: 1px solid #2d2d2d;
+}
+
+#commentSettings {
+    border-top: 1px solid #2d2d2d;
+    border-bottom: 1px solid #2d2d2d;
+}
+
+.bigLinks > span.sel {
+    background: #333;
+    color: #fff;
+}
+
+.bigLinks > span {
+    border: 1px solid #2d2d2d;
+    background: linear-gradient(to bottom,#3b3b3b 0,#3b3b3b 100%);
+	color: white;
+}
+
+.share-links > span {
+    color: #fff;
+}
+
+.share-links > span > span {
+    border-bottom: 1px dotted #fff;
+}
+
+#profilePreview > div {
+    background: #333;
+}
+
+.pp-head {
+    border-top: 1px solid #3c3c3c;
+    border-bottom: 1px solid #3c3c3c;
+    background: #444;
+}
+
+.homepagePlayer-info {
+    background: linear-gradient(to bottom,#333 3%,#333 100%);
+}
+
+.timeline .content {
+    background: #333;
+    border: 1px solid #515151;
+}
+
+.timeline .content h2 {
+    color: #fff;
+}
+
+#guideline-main > div:first-of-type > div > div:last-of-type {
+    color: black;
+}
+
+#guideline-main > div:first-of-type > div > div:first-of-type {
+    color: #626262;
+}
+
+.guideline-list > div > strong {
+    border-bottom: 1px solid #4a4a4a;
+}
+
+.guideline-list .arrowSection > div:first-of-type {
+    border-color: #4a4a4a;
+}
+
+#channelEditor-m-settings > div:first-of-type, #channelTemplates-Edit > div:first-of-type {
+    color: black;
+}
+
+#channelEditor-m-settings > div:last-of-type, #channelTemplates-Edit > div:last-of-type {
+    color: black;
+}
+
+#channelEditor-m-colors {
+    color: black;
+}
+
+.commentAdmin > div:first-of-type > div:first-of-type {
+    background: #555;
+}
+
+.header-middle-nav a.sel::before, .header-middle-nav a::before {
+    background: linear-gradient(to bottom,#424242 0,#424242 100%);
+}
+
+.header-middle-nav a.sel, .header-middle-nav a:active {
+    color: #fff;
+    border-color: #606060;
+}
+
+.header-middle-nav a::after {
+    background: linear-gradient(to bottom,#424242 0,#424242 100%);
+}
